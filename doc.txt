@@ -1,0 +1,3 @@
+*EXEMPLO DE COMO INICIAR O PROJETO*
+mvn archetype:generate -DgroupId=one.dio -DartifactId=QA-test 
+-Darchetype=maven-archetype-quickstart -DinteractiveMode=false
